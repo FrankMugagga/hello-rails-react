@@ -132,7 +132,7 @@ dependencies:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Edit messages]**
+- [ ] **[Edit message]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -155,7 +155,7 @@ Feel free to check the [issues page](https://github.com/FrankMugagga/hello-rails
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- I would like to thank Microverse for the great project idea. 
+- I would like to thank Microverse for the great project idea
 
 
 
