@@ -155,7 +155,7 @@ Feel free to check the [issues page](https://github.com/FrankMugagga/hello-rails
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- I would like to thank Microverse for the great project idea. 
+- I would like to thank Microverse for the great project idea
 
 
 
